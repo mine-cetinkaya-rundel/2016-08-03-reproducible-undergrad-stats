@@ -24,11 +24,14 @@ The issue of reproducibility often comes up in the context of published research
 	+ Convince researchers to change their workflows and adopt reproducible ones
 	+ Train new researchers who have no other workflow -- this talk focused on this prong
 - Share experiences from undergraduate courses that teach data analysis within a reproducibile framework
-	+ Intro stat - toolkit: R + RStudio + R Markdown
+	+ Intro stat 
+		- Toolkit: R + RStudio + R Markdown
 		- Address common concern: Can students handle it? Oh yeah! In fact, this workflow makes it easier to learn R since (1) keeps workspace clean, (2) keeps code organized, (3) code + output always together, and (4) syntax highlighting
-	+ Intro data science - toolkit: R + RStudio + R Markdown + git + Github
+	+ Intro data science 
+		- Toolkit: R + RStudio + R Markdown + git + Github
 		- Address common concern: Can students handle it? Yes, but need to make instruction of workflow part of the curriculum -- can't just hope students will figure it out
-	+ Advanced stat computing - toolkit: R + RStudio + R Markdown + git + Github + Testing / Continuous Integration
+	+ Advanced stat computing 
+		- Toolkit: R + RStudio + R Markdown + git + Github + Testing / Continuous Integration
 		- Mention since it's part of the undergrad curriculum at Duke, but not elaborate too much (provide link to Colin's talk on this course)
 - 2016/2017 projects: Carry the theme of reproducibility through the entire major with a capstone course and senior thesis that is fully reproducible
 	+ Need instructor buy-in
