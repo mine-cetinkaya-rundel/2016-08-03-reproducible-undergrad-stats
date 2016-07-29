@@ -6,7 +6,7 @@ This repository contains slides for and any additional resources related to the 
 
 - **When:** Wed, 8/3/2016, 8:30 AM - 10:20 AM
 - **Where:** CC-W196c
-- **Talks in session:**
+- **Line up:**
 	+ 8:35 AM - Reproducibility for All and Our Love/Hate Relationship with Spreadsheets — [Jennifer Bryan](https://github.com/jennybc), University of British Columbia
 	+ 8:55 AM - Steps Toward Reproducible Research — [Karl W. Broman](https://github.com/kbroman), University of Wisconsin - Madison
 	+ 9:15 AM - Enough with Trickle-Down Reproducibility: Scientists, Open This Gate! Scientists, Tear Down This Wall! — [Karthik Ram](https://github.com/karthik), University of California at Berkeley
