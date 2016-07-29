@@ -4,15 +4,15 @@ This repository contains slides for and any additional resources related to the 
 
 ## Session information
 
-- When: Wed, 8/3/2016, 8:30 AM - 10:20 AM
-- Where: CC-W196c
-- Talks in session:
+- **When:** Wed, 8/3/2016, 8:30 AM - 10:20 AM
+- **Where:** CC-W196c
+- **Talks in session:**
 	+ 8:35 AM - Reproducibility for All and Our Love/Hate Relationship with Spreadsheets — [Jennifer Bryan](https://github.com/jennybc), University of British Columbia
 	+ 8:55 AM - Steps Toward Reproducible Research — [Karl W. Broman](https://github.com/kbroman), University of Wisconsin - Madison
 	+ 9:15 AM - Enough with Trickle-Down Reproducibility: Scientists, Open This Gate! Scientists, Tear Down This Wall! — [Karthik Ram](https://github.com/karthik), University of California at Berkeley
 	+ 9:35 AM - Integrating Reproducibility into the Undergraduate Statistics Curriculum — Mine Cetinkaya-Rundel, Duke University
 	+ 9:55 AM - Discussant: [Yihui Xie](https://github.com/yihui), RStudio
-- Chair: [Amelia McNamara](https://github.com/AmeliaMN) (filling in for [Ben Baumer](https://github.com/beanumber))
+- **Chair:** [Amelia McNamara](https://github.com/AmeliaMN) (filling in for [Ben Baumer](https://github.com/beanumber))
 
 ## Abstract
 
