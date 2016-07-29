@@ -35,9 +35,8 @@ The issue of reproducibility often comes up in the context of published research
 	+ Recommend a workflow in R
 	+ But R not necessary, any scripting language might work (even though the overhead in some might be more than others)
 	+ Highlight projects for reproducibile data analysis in other languages:
-		- Project TIER
+		- [Project TIER](https://www.haverford.edu/tier)
 		- Others?
-
 
 
 
