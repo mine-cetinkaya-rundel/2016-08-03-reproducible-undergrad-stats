@@ -20,31 +20,44 @@ The issue of reproducibility often comes up in the context of published research
 
 ## Talk outline
 
-- Two pronged approach to spreading reproducibility:
-	+ Convince researchers to change their workflows and adopt reproducible ones
-	+ Train new researchers who have no other workflow -- this talk focused on this prong
+- Intro:
+	- Two pronged approach to spreading reproducibility:
+		+ Convince researchers to change their workflows and adopt reproducible ones
+		+ Train new researchers who have no other workflow -- this talk focused on this prong
+	- Research / teaching:
+		+ Often comes up in the context of published research and the need to accompany such research with the complete data and analyses, including software/code 
+		+ Educators who teach data analysis should be instilling best practices in students before they set out to do research
 - Share experiences from undergraduate courses that teach data analysis within a reproducibile framework
 	+ Intro stat 
 		- Toolkit: R + RStudio + R Markdown
-		- Address common concern: Can students handle it? Oh yeah! In fact, this workflow makes it easier to learn R since (1) keeps workspace clean, (2) keeps code organized, (3) code + output always together, and (4) syntax highlighting
+		- Address common concern: Can students handle it? Oh yeah! 
+			+ Scripting vs. GUI
+			+ Scripting + RR tools: In fact, this workflow makes it easier to learn R since 
+				- keeps workspace clean, 
+				- keeps code organized, 
+				- code + output always together, and 
+				- syntax highlighting
 	+ Intro data science 
 		- Toolkit: R + RStudio + R Markdown + git + Github
-		- Address common concern: Can students handle it? Yes, but need to make instruction of workflow part of the curriculum -- can't just hope students will figure it out
+		- Address common concern: Can students handle it? Yes, 
+			+ But need to make instruction of workflow part of the curriculum 
+			- Can't just hope students will figure it out
 	+ Advanced stat computing 
 		- Toolkit: R + RStudio + R Markdown + git + Github + Testing / Continuous Integration
-		- Mention since it's part of the undergrad curriculum at Duke, but not elaborate too much (provide link to Colin's talk on this course)
+		- More info at http://bit.ly/statcomp_jsm2016
+		- Lesson: grow toolkit along with the complexity of computation
 - 2016/2017 projects: Carry the theme of reproducibility through the entire major with a capstone course and senior thesis that is fully reproducible
 	+ Need instructor buy-in
 	+ Needs to be part of the assessment
 	+ Easily adoptable workflow helps
-		+ Karl's Steps 2 RR
-		+ [Project TIER](https://www.haverford.edu/tier) protocol
-		+ [Reproducible Science Curriculum](https://github.com/Reproducible-Science-Curriculum)
+		- [Karl's Steps 2 RR](http://kbroman.org/steps2rr/)
+		- [Project TIER](https://www.haverford.edu/tier) protocol
+		- [Reproducible Science Curriculum](https://github.com/Reproducible-Science-Curriculum)
 - More comments on toolkit:
 	+ R / RStudio: Recommended
 	+ But R not necessary: 
-		+ Any scripting language might work 
-		+ Even though the overhead in some might be more than others
+		- Any scripting language might work 
+		- Even though the overhead in some might be more than others
 - Pleasant side-effects:
 	+ For instructor: easy Q&A + easy grading
 	+ For student: easy collaboration + self promotion
