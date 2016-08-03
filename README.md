@@ -36,12 +36,15 @@ The issue of reproducibility often comes up in the context of published research
 - 2016/2017 projects: Carry the theme of reproducibility through the entire major with a capstone course and senior thesis that is fully reproducible
 	+ Need instructor buy-in
 	+ Needs to be part of the assessment
+	+ Easily adoptable workflow helps
+		+ Karl's Steps 2 RR
+		+ [Project TIER](https://www.haverford.edu/tier) protocol
+		+ [Reproducible Science Curriculum](https://github.com/Reproducible-Science-Curriculum)
 - More comments on toolkit:
-	+ Recommend a workflow in R
-	+ But R not necessary, any scripting language might work (even though the overhead in some might be more than others)
-	+ Highlight projects for reproducibile data analysis in other languages:
-		- [Project TIER](https://www.haverford.edu/tier)
-		- Others?
+	+ R / RStudio: Recommended
+	+ But R not necessary: 
+		+ Any scripting language might work 
+		+ Even though the overhead in some might be more than others
 - Pleasant side-effects:
 	+ For instructor: easy Q&A + easy grading
 	+ For student: easy collaboration + self promotion
