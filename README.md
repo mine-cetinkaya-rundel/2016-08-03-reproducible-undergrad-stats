@@ -37,15 +37,24 @@ The issue of reproducibility often comes up in the context of published research
 				- keeps code organized, 
 				- code + output always together, and 
 				- syntax highlighting
+		- More course info: 
+			- Course website: https://www.stat.duke.edu/courses/Spring16/sta101.001/
+			- Course materials: https://github.com/mine-cetinkaya-rundel/sta101-s16
 	+ Intro data science 
 		- Toolkit: R + RStudio + R Markdown + git + Github
 		- Address common concern: Can students handle it? Yes, 
 			+ But need to make instruction of workflow part of the curriculum 
 			- Can't just hope students will figure it out
+		- More course info: 
+			- Course website: https://www.stat.duke.edu/courses/Fall15/sta112.01/
+			- Course materials: https://github.com/mine-cetinkaya-rundel/sta112_f15
 	+ Advanced stat computing 
 		- Toolkit: R + RStudio + R Markdown + git + Github + Testing / Continuous Integration
 		- More info at http://bit.ly/statcomp_jsm2016
 		- Lesson: grow toolkit along with the complexity of computation
+		- Materials: 
+			- Course website: http://www.stat.duke.edu/~cr173/Sta323_Sp16/
+			- Course materials: https://github.com/Sta323-Sp16
 - 2016/2017 projects: Carry the theme of reproducibility through the entire major with a capstone course and senior thesis that is fully reproducible
 	+ Need instructor buy-in
 	+ Needs to be part of the assessment
